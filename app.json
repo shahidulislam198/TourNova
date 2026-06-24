@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "newwww",
-    "slug": "newwww",
+    "name": "TourNova",
+    "slug": "TourNova",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "newwww",
+    "scheme": "TourNova",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -27,6 +27,7 @@
     },
     "plugins": [
       "expo-router",
+      "expo-sqlite",
       [
         "expo-splash-screen",
         {
