@@ -19,7 +19,7 @@ TourNova is a mobile travel planner built with Expo Router and React Native. It 
 - Expo SQLite
 - TypeScript
 - NativeWind / Tailwind-style UI styling
-- DeepSeek API for itinerary generation (optional)
+- DeepSeek API for itinerary generation
 
 ## Getting Started
 
